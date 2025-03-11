@@ -6,6 +6,6 @@ This project was made in the framework of Computational Intelligence course and 
   
   **2.** Regression problem solving using **TSK** models.
   
-  **3.** Sorting problem solcing using Multi-Layer Perceptron (**MLP**) neural network.
+  **3.** Sorting problem solving using Multi-Layer Perceptron (**MLP**) neural network.
   
   **4.** Regression problem solving using Radial Basis Function (**RBF**) neural network.
